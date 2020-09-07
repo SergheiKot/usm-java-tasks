@@ -1,2 +1,1 @@
-# usm-java-tasks
-#USM
+### Java tasks
